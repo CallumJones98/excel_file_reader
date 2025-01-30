@@ -35,7 +35,7 @@ Ensure the Excel file containing financial data is in the correct directory.
 
 Example Excel Data File below:
 
-[example excel file](example_excel_data.png)
+[example excel file]([example_excel_data.png](https://github.com/CallumJones98/excel_file_reader/blob/15f24a4eb3907c614ea7a0036f23a47ccc708b39/example_excel_data.png))
 
 
 
@@ -49,7 +49,7 @@ Process data (in this instance a comparison for recurring payments)
 Generate visualizations of spending trends
 
 
-[example of analysis from file](recurring_payment_example.png)
+[example of analysis from file]([recurring_payment_example.png](https://github.com/CallumJones98/excel_file_reader/blob/15f24a4eb3907c614ea7a0036f23a47ccc708b39/recurring_payment_example.png))
 
 
 
@@ -64,7 +64,7 @@ Line Graph: Trends in recurring payments
 
 Example Graph:
 
-[pie chart example of payment trends](payment_graph.png) 
+[pie chart example of payment trends]([payment_graph.png](https://github.com/CallumJones98/excel_file_reader/blob/15f24a4eb3907c614ea7a0036f23a47ccc708b39/payment_graph.png)) 
 
 
 
