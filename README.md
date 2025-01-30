@@ -49,8 +49,7 @@ Process data (in this instance a comparison for recurring payments)
 Generate visualizations of spending trends
 
 
-![example of analysis from file]([recurring_payment_example.png](https://github.com/CallumJones98/excel_file_reader/blob/15f24a4eb3907c614ea7a0036f23a47ccc708b39/recurring_payment_example.png))
-
+![Example of Analysis from File](recurring_payment_example.png)
 
 
 
