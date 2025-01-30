@@ -33,6 +33,13 @@ Open the Jupyter Notebook.
 Ensure the Excel file containing financial data is in the correct directory.
 
 
+Example Excel Data File below:
+
+[example excel file](example_excel_data.png)
+
+
+
+
 Run the notebook cells to:
 
 Load the data from the Excel file
@@ -40,6 +47,10 @@ Load the data from the Excel file
 Process data (in this instance a comparison for recurring payments)
 
 Generate visualizations of spending trends
+
+
+[example of analysis from file](recurring_payment_example.png)
+
 
 
 
@@ -51,7 +62,14 @@ Pie Chart: Distribution of expenses
 
 Line Graph: Trends in recurring payments
 
-Customization
+Example Graph:
+
+[pie chart example of payment trends](payment_graph.png) 
+
+
+
+
+
 
 You can modify the notebook to:
 
